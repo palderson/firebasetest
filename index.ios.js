@@ -24,9 +24,9 @@ const {
 
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyC3ebdIS2Hyt0QDL7A4_QJC0Nuu6lK6jUE",
-  authDomain: "firereactbasenative.firebaseapp.com",
-  databaseURL: "https://firereactbasenative.firebaseio.com",
+  apiKey: "AIzaSyBXZD4G_yyAjpKH-9JPa3Bc92ytajFYVUo",
+  authDomain: "savetest-609fc.firebaseapp.com",
+  databaseURL: "https://savetest-609fc.firebaseio.com",
   storageBucket: "",
 };
 const firebaseApp = firebase.initializeApp(firebaseConfig);
